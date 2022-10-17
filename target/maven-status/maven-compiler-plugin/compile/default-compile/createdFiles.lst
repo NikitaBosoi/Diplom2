@@ -1,0 +1,7 @@
+dataModels\Order.class
+clientAPI\UserClient.class
+dataModels\responseDataOfingredients.class
+clientAPI\OrderClient.class
+dataModels\User.class
+dataModels\UserCreds.class
+dataModels\Ingredient.class
